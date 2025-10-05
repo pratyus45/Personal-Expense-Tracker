@@ -34,7 +34,9 @@ Validation (<limits>) – To handle invalid input safely
 ## File Structure
 ## PersonalExpenseTracker
 ├── expense.cpp               # Main source code
+<br/>
 ├── expenses.txt              # Data file (auto-created)
+<br>
 └── README.md                 # Project documentation
 
 ## How to Run
@@ -66,7 +68,9 @@ Enter your choice:
 
 ## Example Data (expenses.txt)
 1,250.50,2025-10-04,Grocery shopping
+<br/>
 2,1200.00,2025-10-05,Electricity bill
+<br/>
 3,99.99,2025-10-05,Coffee with friends
 
 ## Future Enhancements
