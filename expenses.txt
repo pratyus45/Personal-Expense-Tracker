@@ -1,1 +1,2 @@
-1,1000,2025-10-05,Purchased a t-shirt 
+2,3000,2025-10-05,Extra expense on Grocery.
+3,2800,2025-10-4,Grocery Shopping
